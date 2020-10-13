@@ -1,0 +1,12 @@
+original text:
+D: mb xwhvxw mlnX 4X6AhPLAR4eupSRJ6FLt8AgE6JsLdBRxq57L8IeMyBRHp6IGsmgFIB5E :ztey xam lb lbaH
+
+reversed order:
+Habl bl max yetz: E5BIFgmsGI6pHRByMeI8L75qxRBdLsJ6EgA8tLF6JRSpue4RALPhA6X4 Xnlm wxvhwx bm
+
+guess:
+This is the flag:
+
+solved with:
+echo "Habl bl max yetz: E5BIFgmsGI6pHRByMeI8L75qxRBdLsJ6EgA8tLF6JRSpue4RALPhA6X4 Xnlm wxvhwx bm" | tr '[a-z]' '[h-za-g]' | tr '[O-ZA-N]' '[A-Z]' | tr '[5-90-4]' '[0-9]'
+echo `echo "Q0NURntzSU1wTDNfYlU3X20xeDNkXzV1QnM3aXR1VDEwbl9DMXBoM1J9" | base64 -d`

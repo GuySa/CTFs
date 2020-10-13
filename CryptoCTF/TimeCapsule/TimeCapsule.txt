@@ -1,0 +1,6 @@
+observations:
+we want to calculate m.
+we can calculate l ^ m by c ^ z.
+
+trying to factorize n:
+15013 is a prime factor with multiplicity 1 
